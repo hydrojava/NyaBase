@@ -1,5 +1,5 @@
 # NyaBase
-a base for minecraft bukkit plgin, all kotlin code
+A base for minecraft bukkit plugin made in Kotlin.
 
 ## Command
 ````kotlin
